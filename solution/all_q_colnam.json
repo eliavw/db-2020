@@ -1,0 +1,63 @@
+{
+    "query_01": [
+        "tname",
+        "year",
+        "HomeRun"
+    ],
+    "query_02": [
+        "nameFirst",
+        "nameLast",
+        "birthYear",
+        "birthMonth",
+        "birthDay"
+    ],
+    "query_03": [
+        "nameFirst",
+        "nameLast",
+        "tname"
+    ],
+    "query_04": [
+        "teamID",
+        "name",
+        "yearID",
+        "W",
+        "L",
+        "MaxSalary"
+    ],
+    "query_05": [
+        "teamID",
+        "name",
+        "yearID",
+        "rank"
+    ],
+    "query_06": [
+        "playerID",
+        "nameFirst",
+        "nameLast"
+    ],
+    "query_07": [
+        "playerID",
+        "nameFirst",
+        "nameLast",
+        "teamID"
+    ],
+    "query_08": [
+        "teamID",
+        "tname",
+        "bestyear",
+        "HR",
+        "W"
+    ],
+    "query_09": [
+        "teamID",
+        "tname",
+        "yearID",
+        "rank",
+        "HR"
+    ],
+    "query_10": [
+        "teamId",
+        "tname",
+        "HOFplayercount"
+    ]
+}

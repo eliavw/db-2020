@@ -1,0 +1,32 @@
+# Custom
+
+*.sql
+
+# Ignore these output/temporary directories
+tmp/
+**/tmp/
+
+out/
+**/out/
+
+
+# Stupid directories
+
+## From pycharm
+.idea/
+.ipynb_checkpoints/
+**/.idea
+.vscode/
+**/.vscode/
+
+
+## From python
+__pycache__/
+**/__pycache__
+**/__pycache__/
+
+## From notebooks
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+**/.ipynb_checkpoints/
+
