@@ -1,5 +1,4 @@
-# Custom
-
+# Database files
 *.sql
 
 # Ignore these output/temporary directories
@@ -9,23 +8,21 @@ tmp/
 out/
 **/out/
 
+# VSCode
+.vscode
+**/.vscode/
 
-# Stupid directories
-
-## From pycharm
+# pycharm
 .idea/
 .ipynb_checkpoints/
 **/.idea
-.vscode/
-**/.vscode/
 
-
-## From python
+# python
 __pycache__/
 **/__pycache__
 **/__pycache__/
 
-## From notebooks
+# ipython-notebooks
 .ipynb_checkpoints
 **/.ipynb_checkpoints
 **/.ipynb_checkpoints/
