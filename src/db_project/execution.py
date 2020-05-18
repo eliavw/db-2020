@@ -58,41 +58,41 @@ def run_external_script(
     fs = create_fs(fname, params_fname=params_fname, suffix=suffix)
 
     f = io.StringIO()
-    # with redirect_stdout(f):
-    if q_idx is None:
-        _, all_q_names, all_q_method, all_q_colnam, all_q_params = before_execution(
-            fname,
-            fs=fs,
-            all_q_colnam=all_q_colnam,
-            all_q_params=all_q_params,
-            solution=solution,
-        )
-
-        run_all_queries(
-            fs, all_q_names, all_q_method, connection, all_q_colnam, all_q_params
-        )
-
-    else:
-        q_to_run = [q_idx] if isinstance(q_idx, int) else q_idx
-
-        for q_idx in q_to_run:
-            (
-                _,
-                all_q_names,
-                all_q_method,
-                all_q_colnam,
-                all_q_params,
-            ) = before_execution(
+    with redirect_stdout(f):
+        if q_idx is None:
+            _, all_q_names, all_q_method, all_q_colnam, all_q_params = before_execution(
                 fname,
+                fs=fs,
                 all_q_colnam=all_q_colnam,
                 all_q_params=all_q_params,
-                q_idx=q_idx,
                 solution=solution,
             )
 
             run_all_queries(
-                fs, all_q_names, all_q_method, connection, all_q_colnam, all_q_params,
+                fs, all_q_names, all_q_method, connection, all_q_colnam, all_q_params
             )
+
+        else:
+            q_to_run = [q_idx] if isinstance(q_idx, int) else q_idx
+
+            for q_idx in q_to_run:
+                (
+                    _,
+                    all_q_names,
+                    all_q_method,
+                    all_q_colnam,
+                    all_q_params,
+                ) = before_execution(
+                    fname,
+                    all_q_colnam=all_q_colnam,
+                    all_q_params=all_q_params,
+                    q_idx=q_idx,
+                    solution=solution,
+                )
+
+                run_all_queries(
+                    fs, all_q_names, all_q_method, connection, all_q_colnam, all_q_params,
+                )
 
     execution_report = f.getvalue()
 
