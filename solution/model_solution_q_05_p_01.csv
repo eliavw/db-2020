@@ -1,0 +1,314 @@
+teamID,name,yearID,rank
+ANA,Anaheim Angels,1997,2
+ARI,Arizona Diamondbacks,2008,2
+ARI,Arizona Diamondbacks,2007,1
+ARI,Arizona Diamondbacks,2004,5
+ARI,Arizona Diamondbacks,2003,3
+ARI,Arizona Diamondbacks,2002,1
+ARI,Arizona Diamondbacks,2001,1
+ARI,Arizona Diamondbacks,2000,3
+ARI,Arizona Diamondbacks,1999,1
+ATL,Atlanta Braves,2009,3
+ATL,Atlanta Braves,2008,4
+ATL,Atlanta Braves,2007,3
+ATL,Atlanta Braves,2006,3
+ATL,Atlanta Braves,2005,1
+ATL,Atlanta Braves,2004,1
+ATL,Atlanta Braves,2003,1
+ATL,Atlanta Braves,2002,1
+ATL,Atlanta Braves,2001,1
+ATL,Atlanta Braves,2000,1
+ATL,Atlanta Braves,1999,1
+ATL,Atlanta Braves,1998,1
+ATL,Atlanta Braves,1997,1
+ATL,Atlanta Braves,1996,1
+ATL,Atlanta Braves,1995,1
+ATL,Atlanta Braves,1994,2
+ATL,Atlanta Braves,1993,1
+ATL,Atlanta Braves,1992,1
+ATL,Atlanta Braves,1991,1
+ATL,Atlanta Braves,1990,6
+ATL,Atlanta Braves,1989,6
+ATL,Atlanta Braves,1988,6
+ATL,Atlanta Braves,1987,5
+ATL,Atlanta Braves,1986,6
+ATL,Atlanta Braves,1985,5
+BAL,Baltimore Orioles,2001,4
+BAL,Baltimore Orioles,2000,4
+BAL,Baltimore Orioles,1999,4
+BAL,Baltimore Orioles,1998,4
+BAL,Baltimore Orioles,1997,1
+BAL,Baltimore Orioles,1996,2
+BAL,Baltimore Orioles,1995,3
+BAL,Baltimore Orioles,1994,2
+BAL,Baltimore Orioles,1993,3
+BAL,Baltimore Orioles,1992,3
+BAL,Baltimore Orioles,1991,6
+BAL,Baltimore Orioles,1990,5
+BAL,Baltimore Orioles,1989,2
+BAL,Baltimore Orioles,1988,7
+BAL,Baltimore Orioles,1987,6
+BAL,Baltimore Orioles,1986,7
+BAL,Baltimore Orioles,1985,4
+BOS,Boston Red Sox,2009,2
+BOS,Boston Red Sox,2004,2
+BOS,Boston Red Sox,2003,2
+BOS,Boston Red Sox,2002,2
+BOS,Boston Red Sox,2001,2
+BOS,Boston Red Sox,2000,2
+BOS,Boston Red Sox,1999,2
+BOS,Boston Red Sox,1998,2
+BOS,Boston Red Sox,1994,4
+BOS,Boston Red Sox,1993,5
+BOS,Boston Red Sox,1992,7
+BOS,Boston Red Sox,1991,2
+BOS,Boston Red Sox,1990,1
+BOS,Boston Red Sox,1989,3
+BOS,Boston Red Sox,1988,1
+BOS,Boston Red Sox,1987,5
+BOS,Boston Red Sox,1986,1
+BOS,Boston Red Sox,1985,5
+CAL,California Angels,1992,5
+CAL,California Angels,1991,7
+CAL,California Angels,1990,4
+CAL,California Angels,1989,3
+CAL,California Angels,1987,6
+CAL,California Angels,1986,1
+CAL,California Angels,1985,2
+CHA,Chicago White Sox,2005,1
+CHA,Chicago White Sox,2004,2
+CHA,Chicago White Sox,2003,2
+CHA,Chicago White Sox,2002,2
+CHA,Chicago White Sox,2001,3
+CHA,Chicago White Sox,2000,1
+CHA,Chicago White Sox,1999,2
+CHA,Chicago White Sox,1998,2
+CHA,Chicago White Sox,1997,2
+CHA,Chicago White Sox,1996,2
+CHA,Chicago White Sox,1995,3
+CHA,Chicago White Sox,1994,1
+CHA,Chicago White Sox,1993,1
+CHA,Chicago White Sox,1992,3
+CHA,Chicago White Sox,1991,2
+CHA,Chicago White Sox,1990,2
+CHA,Chicago White Sox,1989,7
+CHA,Chicago White Sox,1988,5
+CHA,Chicago White Sox,1987,5
+CHA,Chicago White Sox,1986,5
+CHA,Chicago White Sox,1985,3
+CHN,Chicago Cubs,2006,6
+CHN,Chicago Cubs,2005,4
+CHN,Chicago Cubs,2004,3
+CHN,Chicago Cubs,1997,5
+CHN,Chicago Cubs,1996,4
+CHN,Chicago Cubs,1994,5
+CHN,Chicago Cubs,1993,4
+CHN,Chicago Cubs,1992,4
+CHN,Chicago Cubs,1991,4
+CHN,Chicago Cubs,1990,4
+CHN,Chicago Cubs,1989,1
+CHN,Chicago Cubs,1988,4
+CHN,Chicago Cubs,1987,6
+CHN,Chicago Cubs,1986,5
+CHN,Chicago Cubs,1985,4
+CIN,Cincinnati Reds,2004,4
+CIN,Cincinnati Reds,2003,5
+CIN,Cincinnati Reds,2002,3
+CIN,Cincinnati Reds,2001,5
+CIN,Cincinnati Reds,2000,2
+CIN,Cincinnati Reds,1999,2
+CIN,Cincinnati Reds,1998,4
+CIN,Cincinnati Reds,1997,3
+CIN,Cincinnati Reds,1996,3
+CIN,Cincinnati Reds,1995,1
+CIN,Cincinnati Reds,1994,1
+CIN,Cincinnati Reds,1993,5
+CIN,Cincinnati Reds,1992,2
+CIN,Cincinnati Reds,1991,5
+CIN,Cincinnati Reds,1990,1
+CIN,Cincinnati Reds,1989,5
+CIN,Cincinnati Reds,1988,2
+CIN,Cincinnati Reds,1987,2
+CIN,Cincinnati Reds,1986,2
+CIN,Cincinnati Reds,1985,2
+CLE,Cleveland Indians,2001,1
+CLE,Cleveland Indians,2000,2
+CLE,Cleveland Indians,1999,1
+CLE,Cleveland Indians,1996,1
+CLE,Cleveland Indians,1995,1
+CLE,Cleveland Indians,1994,2
+CLE,Cleveland Indians,1986,5
+CLE,Cleveland Indians,1985,7
+FLO,Florida Marlins,1996,3
+FLO,Florida Marlins,1995,4
+HOU,Houston Astros,2007,4
+HOU,Houston Astros,2006,2
+HOU,Houston Astros,2005,2
+HOU,Houston Astros,2004,2
+HOU,Houston Astros,2003,2
+HOU,Houston Astros,2002,2
+HOU,Houston Astros,2001,1
+HOU,Houston Astros,2000,4
+HOU,Houston Astros,1999,1
+HOU,Houston Astros,1998,1
+HOU,Houston Astros,1997,1
+HOU,Houston Astros,1996,2
+HOU,Houston Astros,1995,2
+HOU,Houston Astros,1994,2
+HOU,Houston Astros,1993,3
+HOU,Houston Astros,1992,4
+HOU,Houston Astros,1991,6
+HOU,Houston Astros,1990,4
+HOU,Houston Astros,1989,3
+HOU,Houston Astros,1988,5
+HOU,Houston Astros,1987,3
+HOU,Houston Astros,1986,1
+HOU,Houston Astros,1985,3
+KCA,Kansas City Royals,1993,3
+KCA,Kansas City Royals,1992,5
+KCA,Kansas City Royals,1991,6
+KCA,Kansas City Royals,1990,6
+KCA,Kansas City Royals,1989,2
+KCA,Kansas City Royals,1988,3
+KCA,Kansas City Royals,1987,2
+KCA,Kansas City Royals,1986,3
+KCA,Kansas City Royals,1985,1
+LAN,Los Angeles Dodgers,1993,4
+LAN,Los Angeles Dodgers,1991,2
+LAN,Los Angeles Dodgers,1990,2
+LAN,Los Angeles Dodgers,1989,4
+LAN,Los Angeles Dodgers,1988,1
+MIN,Minnesota Twins,1998,4
+MIN,Minnesota Twins,1997,4
+MIN,Minnesota Twins,1996,4
+MIN,Minnesota Twins,1995,5
+MIN,Minnesota Twins,1994,4
+MIN,Minnesota Twins,1993,5
+MIN,Minnesota Twins,1992,2
+MIN,Minnesota Twins,1991,1
+MIN,Minnesota Twins,1990,7
+MIN,Minnesota Twins,1989,5
+MIN,Minnesota Twins,1988,2
+MIN,Minnesota Twins,1987,1
+MIN,Minnesota Twins,1986,6
+MIN,Minnesota Twins,1985,4
+ML4,Milwaukee Brewers,1993,7
+ML4,Milwaukee Brewers,1992,2
+ML4,Milwaukee Brewers,1991,4
+ML4,Milwaukee Brewers,1990,6
+ML4,Milwaukee Brewers,1989,4
+ML4,Milwaukee Brewers,1988,3
+ML4,Milwaukee Brewers,1987,3
+ML4,Milwaukee Brewers,1986,6
+ML4,Milwaukee Brewers,1985,6
+MON,Montreal Expos,1997,4
+MON,Montreal Expos,1996,2
+MON,Montreal Expos,1995,5
+MON,Montreal Expos,1994,1
+MON,Montreal Expos,1992,2
+MON,Montreal Expos,1989,4
+MON,Montreal Expos,1986,4
+MON,Montreal Expos,1985,3
+NYA,New York Yankees,2006,1
+NYA,New York Yankees,2005,1
+NYA,New York Yankees,1997,2
+NYA,New York Yankees,1996,1
+NYA,New York Yankees,1995,2
+NYA,New York Yankees,1994,1
+NYA,New York Yankees,1993,2
+NYA,New York Yankees,1990,7
+NYA,New York Yankees,1989,5
+NYA,New York Yankees,1988,5
+NYA,New York Yankees,1987,4
+NYA,New York Yankees,1986,2
+NYA,New York Yankees,1985,2
+NYN,New York Mets,2008,2
+NYN,New York Mets,2007,2
+NYN,New York Mets,2006,1
+NYN,New York Mets,2005,3
+NYN,New York Mets,2004,4
+NYN,New York Mets,2003,5
+NYN,New York Mets,2002,5
+NYN,New York Mets,2000,2
+NYN,New York Mets,1999,2
+NYN,New York Mets,1993,7
+NYN,New York Mets,1992,5
+NYN,New York Mets,1989,2
+NYN,New York Mets,1988,1
+NYN,New York Mets,1987,2
+NYN,New York Mets,1986,1
+NYN,New York Mets,1985,2
+OAK,Oakland Athletics,2006,1
+OAK,Oakland Athletics,1998,4
+OAK,Oakland Athletics,1996,3
+OAK,Oakland Athletics,1995,4
+OAK,Oakland Athletics,1994,2
+OAK,Oakland Athletics,1993,7
+OAK,Oakland Athletics,1992,1
+OAK,Oakland Athletics,1991,4
+OAK,Oakland Athletics,1990,1
+OAK,Oakland Athletics,1989,1
+OAK,Oakland Athletics,1988,1
+OAK,Oakland Athletics,1987,3
+PHI,Philadelphia Phillies,1988,6
+PHI,Philadelphia Phillies,1987,4
+PHI,Philadelphia Phillies,1986,2
+PHI,Philadelphia Phillies,1985,5
+SDN,San Diego Padres,2008,5
+SDN,San Diego Padres,2007,3
+SDN,San Diego Padres,2001,4
+SDN,San Diego Padres,2000,5
+SDN,San Diego Padres,1999,4
+SDN,San Diego Padres,1998,1
+SDN,San Diego Padres,1997,4
+SDN,San Diego Padres,1996,1
+SDN,San Diego Padres,1995,3
+SDN,San Diego Padres,1994,4
+SDN,San Diego Padres,1993,7
+SDN,San Diego Padres,1992,3
+SDN,San Diego Padres,1991,3
+SDN,San Diego Padres,1990,4
+SDN,San Diego Padres,1989,2
+SDN,San Diego Padres,1988,3
+SDN,San Diego Padres,1987,6
+SDN,San Diego Padres,1986,4
+SDN,San Diego Padres,1985,3
+SEA,Seattle Mariners,1998,3
+SEA,Seattle Mariners,1997,1
+SEA,Seattle Mariners,1996,2
+SEA,Seattle Mariners,1995,1
+SEA,Seattle Mariners,1994,3
+SEA,Seattle Mariners,1993,4
+SEA,Seattle Mariners,1992,7
+SEA,Seattle Mariners,1991,5
+SEA,Seattle Mariners,1990,5
+SFN,San Francisco Giants,2009,3
+SFN,San Francisco Giants,1990,3
+SFN,San Francisco Giants,1989,1
+SLN,St. Louis Cardinals,1997,4
+SLN,St. Louis Cardinals,1996,1
+SLN,St. Louis Cardinals,1995,4
+SLN,St. Louis Cardinals,1994,3
+SLN,St. Louis Cardinals,1993,3
+SLN,St. Louis Cardinals,1992,3
+SLN,St. Louis Cardinals,1991,2
+SLN,St. Louis Cardinals,1990,6
+SLN,St. Louis Cardinals,1989,3
+SLN,St. Louis Cardinals,1988,5
+SLN,St. Louis Cardinals,1987,1
+SLN,St. Louis Cardinals,1986,3
+SLN,St. Louis Cardinals,1985,1
+TBA,Tampa Bay Devil Rays,1999,5
+TBA,Tampa Bay Devil Rays,1998,5
+TEX,Texas Rangers,1993,2
+TEX,Texas Rangers,1992,4
+TEX,Texas Rangers,1991,3
+TEX,Texas Rangers,1990,3
+TEX,Texas Rangers,1989,4
+TOR,Toronto Blue Jays,2008,4
+TOR,Toronto Blue Jays,2007,3
+TOR,Toronto Blue Jays,1995,5
+TOR,Toronto Blue Jays,1994,3
+TOR,Toronto Blue Jays,1993,1
+TOR,Toronto Blue Jays,1992,1
+TOR,Toronto Blue Jays,1991,1

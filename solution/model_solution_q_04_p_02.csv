@@ -1,0 +1,181 @@
+teamID,name,yearID,W,L,MaxSalary
+ATL,Atlanta Braves,1985,66,96,1625000
+ATL,Atlanta Braves,1986,72,89,1825000
+ATL,Atlanta Braves,1987,69,92,1925000
+ATL,Atlanta Braves,1988,54,106,2000000
+ATL,Atlanta Braves,1989,63,97,2000000
+ATL,Atlanta Braves,1990,65,97,2000000
+ATL,Atlanta Braves,1991,94,68,2100000
+BAL,Baltimore Orioles,1985,83,78,1472819
+BAL,Baltimore Orioles,1986,73,89,1190000
+BAL,Baltimore Orioles,1987,67,95,2044757
+BAL,Baltimore Orioles,1988,54,107,2142904
+BAL,Baltimore Orioles,1989,87,75,2466667
+BAL,Baltimore Orioles,1990,76,85,1316667
+BOS,Boston Red Sox,1985,81,81,1075000
+BOS,Boston Red Sox,1986,95,66,1984423
+BOS,Boston Red Sox,1987,78,84,2110000
+BOS,Boston Red Sox,1988,89,73,2214865
+BOS,Boston Red Sox,1989,83,79,2354748
+BOS,Boston Red Sox,1990,88,74,2600000
+CAL,California Angels,1985,90,72,1100000
+CAL,California Angels,1986,92,70,1200000
+CAL,California Angels,1987,75,87,1133333
+CAL,California Angels,1988,75,87,1400000
+CAL,California Angels,1989,91,71,1475000
+CAL,California Angels,1990,80,82,1916667
+CHA,Chicago White Sox,1985,85,77,1242333
+CHA,Chicago White Sox,1986,72,90,1132652
+CHA,Chicago White Sox,1987,77,85,1250000
+CHA,Chicago White Sox,1988,71,90,1000000
+CHA,Chicago White Sox,1989,69,92,1200000
+CHA,Chicago White Sox,1990,94,68,1750000
+CHN,Chicago Cubs,1985,77,84,1450000
+CHN,Chicago Cubs,1986,70,90,1530000
+CHN,Chicago Cubs,1987,76,85,1800000
+CHN,Chicago Cubs,1988,77,85,2070000
+CHN,Chicago Cubs,1989,93,69,2340000
+CHN,Chicago Cubs,1990,77,85,2100000
+CIN,Cincinnati Reds,1985,89,72,1071429
+CIN,Cincinnati Reds,1986,86,76,1150000
+CIN,Cincinnati Reds,1987,84,78,1200000
+CIN,Cincinnati Reds,1988,87,74,1200000
+CIN,Cincinnati Reds,1989,75,87,1515000
+CIN,Cincinnati Reds,1990,91,71,2125000
+CLE,Cleveland Indians,1985,60,102,1100000
+CLE,Cleveland Indians,1986,84,78,1100000
+CLE,Cleveland Indians,1987,61,101,1100000
+CLE,Cleveland Indians,1988,78,84,1100000
+CLE,Cleveland Indians,1989,73,89,1630000
+CLE,Cleveland Indians,1990,77,85,1750000
+CLE,Cleveland Indians,1991,57,105,2500000
+CLE,Cleveland Indians,1992,76,86,950000
+CLE,Cleveland Indians,1993,76,86,1700000
+COL,Colorado Rockies,1993,67,95,1325000
+DET,Detroit Tigers,1985,84,77,1083333
+DET,Detroit Tigers,1986,87,75,1200000
+DET,Detroit Tigers,1987,98,64,1850000
+DET,Detroit Tigers,1988,88,74,1988000
+DET,Detroit Tigers,1989,59,103,1989000
+DET,Detroit Tigers,1990,79,83,2100000
+DET,Detroit Tigers,1991,84,78,2200000
+DET,Detroit Tigers,1998,65,97,2425000
+FLO,Florida Marlins,2008,84,77,2500000
+HOU,Houston Astros,1985,83,79,1350000
+HOU,Houston Astros,1986,96,66,1125000
+HOU,Houston Astros,1987,76,86,1225000
+HOU,Houston Astros,1988,82,80,1100000
+HOU,Houston Astros,1989,86,76,1300000
+HOU,Houston Astros,1990,75,87,1987500
+HOU,Houston Astros,1991,65,97,2412500
+HOU,Houston Astros,1992,81,81,1650000
+HOU,Houston Astros,2013,51,111,3000000
+KCA,Kansas City Royals,1985,91,71,1000000
+KCA,Kansas City Royals,1986,76,86,1471429
+KCA,Kansas City Royals,1987,83,79,2055000
+KCA,Kansas City Royals,1988,84,77,2305000
+KCA,Kansas City Royals,1989,92,70,2515362
+KCA,Kansas City Royals,1990,75,86,2255000
+LAN,Los Angeles Dodgers,1985,95,67,1270000
+LAN,Los Angeles Dodgers,1986,73,89,1600000
+LAN,Los Angeles Dodgers,1987,73,89,1850000
+LAN,Los Angeles Dodgers,1988,94,67,2050000
+LAN,Los Angeles Dodgers,1989,77,83,2766667
+LAN,Los Angeles Dodgers,1990,86,76,2513703
+MIN,Minnesota Twins,1985,77,85,728571
+MIN,Minnesota Twins,1986,71,91,1450000
+MIN,Minnesota Twins,1987,85,77,1310000
+MIN,Minnesota Twins,1988,91,71,1666666
+MIN,Minnesota Twins,1989,80,82,2766666
+MIN,Minnesota Twins,1990,74,88,2816667
+ML4,Milwaukee Brewers,1985,71,90,1176190
+ML4,Milwaukee Brewers,1986,77,84,1160000
+ML4,Milwaukee Brewers,1987,91,71,1260000
+ML4,Milwaukee Brewers,1988,87,75,1400000
+ML4,Milwaukee Brewers,1989,81,81,2100000
+MON,Montreal Expos,1985,84,77,1200000
+MON,Montreal Expos,1986,78,83,1515000
+MON,Montreal Expos,1987,91,71,1666333
+MON,Montreal Expos,1988,81,81,1666333
+MON,Montreal Expos,1989,81,81,2104889
+MON,Montreal Expos,1990,85,77,2055555
+MON,Montreal Expos,1993,94,68,3000000
+MON,Montreal Expos,1995,66,78,3000000
+MON,Montreal Expos,1998,65,97,2000000
+MON,Montreal Expos,1999,68,94,3000000
+NYA,New York Yankees,1985,97,64,1795704
+NYA,New York Yankees,1986,90,72,1886714
+NYA,New York Yankees,1987,89,73,1975000
+NYA,New York Yankees,1988,85,76,2000000
+NYA,New York Yankees,1989,74,87,2200000
+NYA,New York Yankees,1990,67,95,2500000
+NYN,New York Mets,1985,98,64,2028571
+NYN,New York Mets,1986,108,54,2800000
+NYN,New York Mets,1987,92,70,2060714
+NYN,New York Mets,1988,100,60,2160714
+NYN,New York Mets,1989,87,75,2416667
+NYN,New York Mets,1990,91,71,1966667
+OAK,Oakland Athletics,1985,77,85,1087500
+OAK,Oakland Athletics,1986,76,86,1233333
+OAK,Oakland Athletics,1987,81,81,1633333
+OAK,Oakland Athletics,1988,104,58,1300000
+OAK,Oakland Athletics,1989,99,63,1600000
+OAK,Oakland Athletics,1990,103,59,2350000
+PHI,Philadelphia Phillies,1985,75,87,2130300
+PHI,Philadelphia Phillies,1986,86,75,2136666
+PHI,Philadelphia Phillies,1987,80,82,2127333
+PHI,Philadelphia Phillies,1988,65,96,2250000
+PHI,Philadelphia Phillies,1989,67,95,1450000
+PHI,Philadelphia Phillies,1990,77,85,2000000
+PHI,Philadelphia Phillies,1991,78,84,2500000
+PHI,Philadelphia Phillies,1994,54,61,2875000
+PIT,Pittsburgh Pirates,1985,57,104,1075000
+PIT,Pittsburgh Pirates,1986,64,98,1825000
+PIT,Pittsburgh Pirates,1987,80,82,1150000
+PIT,Pittsburgh Pirates,1988,85,75,825000
+PIT,Pittsburgh Pirates,1989,74,88,2150000
+PIT,Pittsburgh Pirates,1990,95,67,1250000
+PIT,Pittsburgh Pirates,1997,79,83,2266667
+PIT,Pittsburgh Pirates,1998,69,93,2600000
+PIT,Pittsburgh Pirates,1999,78,83,2700000
+SDN,San Diego Padres,1985,83,79,1713333
+SDN,San Diego Padres,1986,74,88,1250000
+SDN,San Diego Padres,1987,65,97,1450000
+SDN,San Diego Padres,1988,83,78,1243333
+SDN,San Diego Padres,1989,89,73,2000000
+SDN,San Diego Padres,1990,75,87,2000000
+SDN,San Diego Padres,1991,84,78,2750000
+SEA,Seattle Mariners,1985,74,88,690000
+SEA,Seattle Mariners,1986,67,95,600000
+SEA,Seattle Mariners,1987,78,84,750000
+SEA,Seattle Mariners,1988,68,93,990000
+SEA,Seattle Mariners,1989,73,89,1400000
+SEA,Seattle Mariners,1990,77,85,1475000
+SEA,Seattle Mariners,1991,83,79,2037500
+SFN,San Francisco Giants,1985,62,100,900000
+SFN,San Francisco Giants,1986,83,79,900000
+SFN,San Francisco Giants,1987,90,72,975000
+SFN,San Francisco Giants,1988,83,79,900000
+SFN,San Francisco Giants,1989,92,70,1175000
+SFN,San Francisco Giants,1990,85,77,2250000
+SLN,St. Louis Cardinals,1985,101,61,1555000
+SLN,St. Louis Cardinals,1986,79,82,1940000
+SLN,St. Louis Cardinals,1987,95,67,1940000
+SLN,St. Louis Cardinals,1988,76,86,2340000
+SLN,St. Louis Cardinals,1989,86,76,2240000
+SLN,St. Louis Cardinals,1990,70,92,2083333
+SLN,St. Louis Cardinals,1991,84,78,2791666
+SLN,St. Louis Cardinals,1992,83,79,2791667
+SLN,St. Louis Cardinals,1993,87,75,3000000
+TEX,Texas Rangers,1985,62,99,720000
+TEX,Texas Rangers,1986,87,75,865000
+TEX,Texas Rangers,1987,75,87,620000
+TEX,Texas Rangers,1988,70,91,850000
+TEX,Texas Rangers,1989,83,79,1800000
+TEX,Texas Rangers,1990,83,79,1633333
+TOR,Toronto Blue Jays,1985,99,62,1000000
+TOR,Toronto Blue Jays,1986,86,76,1533333
+TOR,Toronto Blue Jays,1987,96,66,1525000
+TOR,Toronto Blue Jays,1988,87,75,1900000
+TOR,Toronto Blue Jays,1989,89,73,1900000
+TOR,Toronto Blue Jays,1990,86,76,2000000

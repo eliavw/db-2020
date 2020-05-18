@@ -1,0 +1,356 @@
+nameFirst,nameLast,tname
+Tom,Carey,Baltimore Canaries
+Bill,Craver,Baltimore Canaries
+Cal,McVey,Baltimore Canaries
+Everett,Mills,Baltimore Canaries
+Warren,White,Baltimore Canaries
+Bill,Smith,Baltimore Marylands
+Billy,Barnie,Baltimore Orioles
+Ned,Hanlon,Baltimore Orioles
+John,McGraw,Baltimore Orioles
+Henry,Myers,Baltimore Orioles
+Wilbert,Robinson,Baltimore Orioles
+George,Van Haltren,Baltimore Orioles
+Otto,Knabe,Baltimore Terrapins
+Jimmy,Collins,Boston Americans
+Deacon,McGuire,Boston Americans
+Chick,Stahl,Boston Americans
+Bob,Unglaub,Boston Americans
+Cy,Young,Boston Americans
+Jack,Burdock,Boston Beaneaters
+King,Kelly,Boston Beaneaters
+John,Morrill,Boston Beaneaters
+Fred,Tenney,Boston Beaneaters
+Dave,Bancroft,Boston Braves
+Tommy,Holmes,Boston Braves
+Rogers,Hornsby,Boston Braves
+Johnny,Kling,Boston Braves
+Frank,Bowerman,Boston Doves
+Joe,Kelley,Boston Doves
+Fred,Lake,Boston Doves
+Harry,Smith,Boston Doves
+Fred,Tenney,Boston Doves
+John,Morrill,Boston Red Caps
+Harry,Wright,Boston Red Caps
+Jack,Barry,Boston Red Sox
+Lou,Boudreau,Boston Red Sox
+Bill,Carrigan,Boston Red Sox
+Joe,Cronin,Boston Red Sox
+Deacon,McGuire,Boston Red Sox
+Marty,McManus,Boston Red Sox
+Jake,Stahl,Boston Red Sox
+Harry,Wright,Boston Red Stockings
+Arthur,Irwin,Boston Reds
+King,Kelly,Boston Reds
+Tim,Murnane,Boston Reds
+Fred,Tenney,Boston Rustlers
+Bill,Boyd,Brooklyn Atlantics
+Bob,Ferguson,Brooklyn Atlantics
+Charlie,Pabor,Brooklyn Atlantics
+Dave,Foutz,Brooklyn Bridegrooms
+Mike,Griffin,Brooklyn Bridegrooms
+Bill,Dahlen,Brooklyn Dodgers
+Leo,Durocher,Brooklyn Dodgers
+Jim,Clinton,Brooklyn Eckfords
+Jimmy,Wood,Brooklyn Eckfords
+Dave,Foutz,Brooklyn Grooms
+John,Ward,Brooklyn Grooms
+Bill,Dahlen,Brooklyn Superbas
+Patsy,Donovan,Brooklyn Superbas
+Harry,Lumley,Brooklyn Superbas
+Bill,Bradley,Brooklyn Tip-Tops
+Lee,Magee,Brooklyn Tip-Tops
+John,Ward,Brooklyn Ward's Wonders
+John,Clapp,Buffalo Bisons
+Sam,Crane,Buffalo Bisons
+Jay,Faatz,Buffalo Bisons
+Pud,Galvin,Buffalo Bisons
+Jim,O'Rourke,Buffalo Bisons
+Jack,Rowe,Buffalo Bisons
+Walter,Blair,Buffalo Blues
+Harry,Lord,Buffalo Blues
+Larry,Schlafly,Buffalo Buffeds
+Joe,Tinker,Chicago Chi-Feds
+Cap,Anson,Chicago Colts
+Roger,Bresnahan,Chicago Cubs
+Phil,Cavarretta,Chicago Cubs
+Frank,Chance,Chicago Cubs
+Johnny,Evers,Chicago Cubs
+Charlie,Grimm,Chicago Cubs
+Gabby,Hartnett,Chicago Cubs
+Rogers,Hornsby,Chicago Cubs
+Bill,Killefer,Chicago Cubs
+Rabbit,Maranville,Chicago Cubs
+El,Tappe,Chicago Cubs
+Joe,Tinker,Chicago Cubs
+Charlie,Comiskey,Chicago Pirates
+Joe,Tinker,Chicago Whales
+Lena,Blackburne,Chicago White Sox
+Jimmy,Callahan,Chicago White Sox
+Eddie,Collins,Chicago White Sox
+Jimmy,Dykes,Chicago White Sox
+Lew,Fonseca,Chicago White Sox
+Clark,Griffith,Chicago White Sox
+Fielder,Jones,Chicago White Sox
+Don,Kessinger,Chicago White Sox
+Ted,Lyons,Chicago White Sox
+Ray,Schalk,Chicago White Sox
+Billy,Sullivan,Chicago White Sox
+Cap,Anson,Chicago White Stockings
+Bob,Ferguson,Chicago White Stockings
+Silver,Flint,Chicago White Stockings
+Fergy,Malone,Chicago White Stockings
+Al,Spalding,Chicago White Stockings
+Jimmy,Wood,Chicago White Stockings
+Joe,Battin,Chicago/Pittsburgh (Union League)
+Joe,Ellick,Chicago/Pittsburgh (Union League)
+King,Kelly,Cincinnati Kelly's Killers
+Sam,Crane,Cincinnati Outlaw Reds
+Dan,O'Leary,Cincinnati Outlaw Reds
+Pop,Snyder,Cincinnati Red Stockings
+Will,White,Cincinnati Red Stockings
+Bob,Addy,Cincinnati Reds
+Bob,Allen,Cincinnati Reds
+John,Clapp,Cincinnati Reds
+Charlie,Comiskey,Cincinnati Reds
+Buck,Ewing,Cincinnati Reds
+John,Ganzel,Cincinnati Reds
+Charlie,Gould,Cincinnati Reds
+Clark,Griffith,Cincinnati Reds
+Heinie,Groh,Cincinnati Reds
+Buck,Herzog,Cincinnati Reds
+Joe,Kelley,Cincinnati Reds
+Jack,Manning,Cincinnati Reds
+Christy,Mathewson,Cincinnati Reds
+Cal,McVey,Cincinnati Reds
+Bob,O'Farrell,Cincinnati Reds
+Lip,Pike,Cincinnati Reds
+Pete,Rose,Cincinnati Reds
+Joe,Tinker,Cincinnati Reds
+Bucky,Walters,Cincinnati Reds
+Deacon,White,Cincinnati Reds
+Ivey,Wingo,Cincinnati Reds
+John,Clapp,Cleveland Blues
+Fred,Dunlap,Cleveland Blues
+Jimmy,McAleer,Cleveland Blues
+Jim,McCormick,Cleveland Blues
+Mike,McGeary,Cleveland Blues
+Scott,Hastings,Cleveland Forest Citys
+Charlie,Pabor,Cleveland Forest Citys
+Deacon,White,Cleveland Forest Citys
+Lou,Boudreau,Cleveland Indians
+Frank,Robinson,Cleveland Indians
+Tris,Speaker,Cleveland Indians
+Henry,Larkin,Cleveland Infants
+Patsy,Tebeau,Cleveland Infants
+Joe,Birmingham,Cleveland Naps
+Bill,Bradley,Cleveland Naps
+Harry,Davis,Cleveland Naps
+Nap,Lajoie,Cleveland Naps
+Deacon,McGuire,Cleveland Naps
+George,Stovall,Cleveland Naps
+Lave,Cross,Cleveland Spiders
+Joe,Quinn,Cleveland Spiders
+Patsy,Tebeau,Cleveland Spiders
+Ty,Cobb,Detroit Tigers
+Mickey,Cochrane,Detroit Tigers
+Bucky,Harris,Detroit Tigers
+Fred,Hutchinson,Detroit Tigers
+Hughie,Jennings,Detroit Tigers
+Bobby,Lowe,Detroit Tigers
+Charlie,Morton,Detroit Wolverines
+Harry,Deane,Fort Wayne Kekiongas
+Bill,Lennon,Fort Wayne Kekiongas
+Bob,Ferguson,Hartford Dark Blues
+Lip,Pike,Hartford Dark Blues
+John,Clapp,Indianapolis Blues
+Jack,Glasscock,Indianapolis Hoosiers
+Bill,Watkins,Indianapolis Hoosiers
+Hank,Bauer,Kansas City Athletics
+Sam,Barkley,Kansas City Cowboys
+Matthew,Porter,Kansas City Cowboys
+Dave,Rowe,Kansas City Cowboys
+Ted,Sullivan,Kansas City Cowboys
+Harry,Wheeler,Kansas City Cowboys
+George,Stovall,Kansas City Packers
+Joe,Simmons,Keokuk Westerns
+Fred,Clarke,Louisville Colonels
+Dude,Esterbrook,Louisville Colonels
+John,Kerins,Louisville Colonels
+Fred,Pfeffer,Louisville Colonels
+Jim,Rogers,Louisville Colonels
+Dan,Shannon,Louisville Colonels
+Chicken,Wolf,Louisville Colonels
+Joe,Gerhardt,Louisville Eclipse
+Denny,Mack,Louisville Eclipse
+Jack,Chapman,Louisville Grays
+John,Clapp,Middletown Mansfields
+Hugh,Duffy,Milwaukee Brewers
+Charlie,Gould,New Haven Elm Citys
+Jumbo,Latham,New Haven Elm Citys
+Charlie,Pabor,New Haven Elm Citys
+George,Davis,New York Giants
+Jack,Doyle,New York Giants
+Buck,Ewing,New York Giants
+Rogers,Hornsby,New York Giants
+Bill,Joyce,New York Giants
+John,McGraw,New York Giants
+Mel,Ott,New York Giants
+Heinie,Smith,New York Giants
+Bill,Terry,New York Giants
+John,Ward,New York Giants
+John,Clapp,New York Gothams
+John,Ward,New York Gothams
+Hal,Chase,New York Highlanders
+Kid,Elberfeld,New York Highlanders
+Clark,Griffith,New York Highlanders
+Harry,Wolverton,New York Highlanders
+Dave,Orr,New York Metropolitans
+Joe,Torre,New York Mets
+Tom,Carey,New York Mutuals
+Bob,Ferguson,New York Mutuals
+John,Hatfield,New York Mutuals
+Nat,Hicks,New York Mutuals
+Dick,Higham,New York Mutuals
+Dickey,Pearce,New York Mutuals
+Joe,Start,New York Mutuals
+Frank,Chance,New York Yankees
+Bill,Dickey,New York Yankees
+Bill,Donovan,New York Yankees
+Roger,Peckinpaugh,New York Yankees
+Bill,McKechnie,Newark Pepper
+Cap,Anson,Philadelphia Athletics
+Charlie,Buffinton,Philadelphia Athletics
+Jim,Fogarty,Philadelphia Athletics
+Eddie,Joost,Philadelphia Athletics
+Lon,Knight,Philadelphia Athletics
+Jumbo,Latham,Philadelphia Athletics
+Dick,McBride,Philadelphia Athletics
+Harry,Stovey,Philadelphia Athletics
+George,Wood,Philadelphia Athletics
+Bill,Craver,Philadelphia Centennials
+Fergy,Malone,Philadelphia Keystones
+Bob,Allen,Philadelphia Phillies
+Ben,Chapman,Philadelphia Phillies
+Jack,Clements,Philadelphia Phillies
+Gavvy,Cravath,Philadelphia Phillies
+Red,Dooin,Philadelphia Phillies
+Hugh,Duffy,Philadelphia Phillies
+Arthur,Irwin,Philadelphia Phillies
+Stuffy,McInnis,Philadelphia Phillies
+Billy,Nash,Philadelphia Phillies
+George,Stallings,Philadelphia Phillies
+Kaiser,Wilhelm,Philadelphia Phillies
+Jimmie,Wilson,Philadelphia Phillies
+Chief,Zimmer,Philadelphia Phillies
+Bob,Ferguson,Philadelphia Quakers
+Blondie,Purcell,Philadelphia Quakers
+Bob,Addy,Philadelphia Whites
+Bill,Craver,Philadelphia Whites
+Fergy,Malone,Philadelphia Whites
+Mike,McGeary,Philadelphia Whites
+Jimmy,Wood,Philadelphia Whites
+Joe,Battin,Pittsburg Alleghenys
+George,Creamer,Pittsburg Alleghenys
+Fred,Dunlap,Pittsburg Alleghenys
+Bob,Ferguson,Pittsburg Alleghenys
+Ned,Hanlon,Pittsburg Alleghenys
+Guy,Hecker,Pittsburg Alleghenys
+Ned,Hanlon,Pittsburgh Burghers
+Tom,Burns,Pittsburgh Pirates
+Fred,Clarke,Pittsburgh Pirates
+Patsy,Donovan,Pittsburgh Pirates
+Ned,Hanlon,Pittsburgh Pirates
+Billy,Herman,Pittsburgh Pirates
+Connie,Mack,Pittsburgh Pirates
+Pie,Traynor,Pittsburgh Pirates
+Honus,Wagner,Pittsburgh Pirates
+Rebel,Oakes,Pittsburgh Rebels
+Mike,Dorgan,Providence Grays
+Jack,Farrell,Providence Grays
+Mike,McGeary,Providence Grays
+John,Ward,Providence Grays
+George,Wright,Providence Grays
+Tom,York,Providence Grays
+Scott,Hastings,Rockford Forest Citys
+Ned,Cuthbert,St. Louis Brown Stockings
+Dickey,Pearce,St. Louis Brown Stockings
+Jimmy,Austin,St. Louis Browns
+Jim,Bottomley,St. Louis Browns
+Count,Campau,St. Louis Browns
+Bob,Caruthers,St. Louis Browns
+Charlie,Comiskey,St. Louis Browns
+Roger,Connor,St. Louis Browns
+Jack,Crooks,St. Louis Browns
+Tommy,Dowd,St. Louis Browns
+Joe,Gerhardt,St. Louis Browns
+Jack,Glasscock,St. Louis Browns
+George,Gore,St. Louis Browns
+Bill,Hallman,St. Louis Browns
+Rogers,Hornsby,St. Louis Browns
+John,Kerins,St. Louis Browns
+Arlie,Latham,St. Louis Browns
+Marty,Marion,St. Louis Browns
+Jimmy,McAleer,St. Louis Browns
+Tommy,McCarthy,St. Louis Browns
+Jack,O'Connor,St. Louis Browns
+Joe,Quinn,St. Louis Browns
+Branch,Rickey,St. Louis Browns
+Chief,Roseman,St. Louis Browns
+Luke,Sewell,St. Louis Browns
+George,Sisler,St. Louis Browns
+George,Stovall,St. Louis Browns
+Cub,Stricker,St. Louis Browns
+Bobby,Wallace,St. Louis Browns
+Roger,Bresnahan,St. Louis Cardinals
+Jimmy,Burke,St. Louis Cardinals
+Patsy,Donovan,St. Louis Cardinals
+Frankie,Frisch,St. Louis Cardinals
+Solly,Hemus,St. Louis Cardinals
+Rogers,Hornsby,St. Louis Cardinals
+Miller,Huggins,St. Louis Cardinals
+Kid,Nichols,St. Louis Cardinals
+Bob,O'Farrell,St. Louis Cardinals
+Billy,Southworth,St. Louis Cardinals
+Eddie,Stanky,St. Louis Cardinals
+Gabby,Street,St. Louis Cardinals
+Patsy,Tebeau,St. Louis Cardinals
+Harry,Walker,St. Louis Cardinals
+Fred,Dunlap,St. Louis Maroons
+Alex,McKinnon,St. Louis Maroons
+Patsy,Tebeau,St. Louis Perfectos
+Charlie,Sweasy,St. Louis Red Stockings
+Mordecai,Brown,St. Louis Terriers
+Fielder,Jones,St. Louis Terriers
+Mike,Dorgan,Syracuse Stars
+Bill,Holbert,Syracuse Stars
+Jimmy,Macullar,Syracuse Stars
+Charlie,Morton,Toledo Blue Stockings
+Bill,Craver,Troy Haymakers
+Lip,Pike,Troy Haymakers
+Jimmy,Wood,Troy Haymakers
+Bob,Ferguson,Troy Trojans
+Holly,Hollingshead,Washington Nationals
+Arthur,Irwin,Washington Nationals
+Joe,Miller,Washington Nationals
+John,Morrill,Washington Nationals
+Bill,Parks,Washington Nationals
+Tom,Brown,Washington Senators
+Donie,Bush,Washington Senators
+Joe,Cronin,Washington Senators
+Patsy,Donovan,Washington Senators
+Jack,Doyle,Washington Senators
+Clark,Griffith,Washington Senators
+Bucky,Harris,Washington Senators
+Malachi,Kittridge,Washington Senators
+Deacon,McGuire,Washington Senators
+Clyde,Milan,Washington Senators
+Jim,O'Rourke,Washington Senators
+Danny,Richardson,Washington Senators
+Jake,Stahl,Washington Senators
+Sandy,Griffin,Washington Statesmen
+Dan,Shannon,Washington Statesmen
+Pop,Snyder,Washington Statesmen
+Tommy,Bond,Worcester Ruby Legs
+Mike,Dorgan,Worcester Ruby Legs
+Harry,Stovey,Worcester Ruby Legs

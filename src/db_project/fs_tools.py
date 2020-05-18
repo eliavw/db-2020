@@ -4,6 +4,8 @@ the filesystem of our evaluation.
 import os
 import shutil
 
+from pathlib import Path
+
 
 def create_fs(
     fname,
@@ -14,12 +16,14 @@ def create_fs(
     red_scores_fname="red_scores.csv",
     params_fname="all_q_params.json",
     colnam_fname="all_q_colnam.json",
+    suffix='',
     **kwargs
 ):
     """Build a dict that represents the filesystem
     """
 
     identifier = get_scriptname(fname)  # Script fname as unique identifier
+    identifier = identifier + suffix
 
     if main_dir is None:
         main_dir = get_main_dir()
@@ -35,8 +39,8 @@ def create_fs(
     all_scores = os.path.join(rep_dir, all_scores_fname)
     red_scores = os.path.join(rep_dir, red_scores_fname)
 
-    params_json = os.path.join(sol_dir, params_fname)
-    colnam_json = os.path.join(sol_dir, colnam_fname)
+    params_json = _existing_or_default_filename(sol_dir, params_fname)
+    colnam_json = _existing_or_default_filename(sol_dir, colnam_fname)
 
     fs = {}
 
@@ -61,6 +65,21 @@ def create_fs(
     }
 
     return fs
+
+
+def _existing_or_default_filename(directory, filename):
+    """
+    Check for existence of the given filename.
+
+    If the file already exists, we assume the user means that exact file.
+
+    If not, we assume the user actually meant the filename as it appears in the 'default structure',
+    and so we generate it.
+    """
+    if Path(filename).exists():
+        return filename
+    else:
+        return os.path.join(directory, filename)
 
 
 def get_main_dir():

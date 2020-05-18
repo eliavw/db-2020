@@ -32,6 +32,7 @@ def run_external_script(
     report=True,
     solution=False,
     params_fname="all_q_params.json",
+    suffix='',
 ):
     """
     Run the external script that is provided.
@@ -54,49 +55,44 @@ def run_external_script(
 
     """
 
-    fs = create_fs(fname, params_fname=params_fname)
+    fs = create_fs(fname, params_fname=params_fname, suffix=suffix)
 
     f = io.StringIO()
-    with redirect_stdout(f):
-        if q_idx is None:
-            _, all_q_names, all_q_method, all_q_colnam, all_q_params = before_execution(
+    # with redirect_stdout(f):
+    if q_idx is None:
+        _, all_q_names, all_q_method, all_q_colnam, all_q_params = before_execution(
+            fname,
+            fs=fs,
+            all_q_colnam=all_q_colnam,
+            all_q_params=all_q_params,
+            solution=solution,
+        )
+
+        run_all_queries(
+            fs, all_q_names, all_q_method, connection, all_q_colnam, all_q_params
+        )
+
+    else:
+        q_to_run = [q_idx] if isinstance(q_idx, int) else q_idx
+
+        for q_idx in q_to_run:
+            (
+                _,
+                all_q_names,
+                all_q_method,
+                all_q_colnam,
+                all_q_params,
+            ) = before_execution(
                 fname,
-                fs=fs,
                 all_q_colnam=all_q_colnam,
                 all_q_params=all_q_params,
+                q_idx=q_idx,
                 solution=solution,
             )
 
             run_all_queries(
-                fs, all_q_names, all_q_method, connection, all_q_colnam, all_q_params
+                fs, all_q_names, all_q_method, connection, all_q_colnam, all_q_params,
             )
-
-        else:
-            q_to_run = [q_idx] if isinstance(q_idx, int) else q_idx
-
-            for q_idx in q_to_run:
-                (
-                    _,
-                    all_q_names,
-                    all_q_method,
-                    all_q_colnam,
-                    all_q_params,
-                ) = before_execution(
-                    fname,
-                    all_q_colnam=all_q_colnam,
-                    all_q_params=all_q_params,
-                    q_idx=q_idx,
-                    solution=solution,
-                )
-
-                run_all_queries(
-                    fs,
-                    all_q_names,
-                    all_q_method,
-                    connection,
-                    all_q_colnam,
-                    all_q_params,
-                )
 
     execution_report = f.getvalue()
 
@@ -107,12 +103,15 @@ def run_external_script(
 
             report_basename, ext = os.path.splitext(fs["file"]["exec_report"])
             report_name = report_basename + appendix + ext
+
         elif isinstance(q_idx, list):
             appendix = "_" + gen_q_name(q_idx[0]) + "_to_{:02d}".format(q_idx[-1] + 1)
             report_basename, ext = os.path.splitext(fs["file"]["exec_report"])
             report_name = report_basename + appendix + ext
+
         else:
             report_name = fs["file"]["exec_report"]
+
         with open(report_name, "w") as f:
             print(execution_report, file=f)
 
@@ -235,7 +234,7 @@ def run_all_queries(
             msg = """
                 An exception occurred in method {}:
                     {}
-                
+
                 """.format(
                 method_name, error
             )
