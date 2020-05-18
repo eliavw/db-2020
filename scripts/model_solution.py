@@ -260,23 +260,28 @@ def query_08(connection, column_names):
     SELECT
         t.teamID,
         t.name,
-        MAX(t.yearID),
+        t.yearID,
         t.HR,
         t.W
     FROM
         Teams AS t
-    WHERE NOT EXISTS
-        (
+    WHERE
+        t.yearID =(
         SELECT
-            *
+            MAX(t2.yearID)
         FROM
             Teams AS t2
         WHERE
-            t.teamID = t2.teamID AND
-            t.HR < t2.HR
+            t2.teamID = t.teamID AND
+            t2.HR =(
+                SELECT
+                    MAX(t3.HR)
+                FROM
+                    Teams AS t3
+                WHERE
+                    t3.teamID = t2.teamID
+        )
     )
-    GROUP BY
-        t.teamID
     ORDER BY
         t.HR DESC,
         t.teamID DESC;

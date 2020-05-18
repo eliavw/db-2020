@@ -58,7 +58,7 @@ def run_external_script(
     fs = create_fs(fname, params_fname=params_fname, suffix=suffix)
 
     f = io.StringIO()
-    with redirect_stdout(f):
+    with redirect_stdout(f): # DO *NOT* COMMENT THIS OUT! OTHERWISE THE EXECUTION REPORTS BECOME EMPTY.
         if q_idx is None:
             _, all_q_names, all_q_method, all_q_colnam, all_q_params = before_execution(
                 fname,

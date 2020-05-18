@@ -37,7 +37,7 @@ SDN,San Diego Padres,2016,177,68
 PHA,Philadelphia Athletics,1932,172,94
 PIT,Pittsburgh Pirates,1999,171,78
 KCA,Kansas City Royals,1987,168,83
-KC1,Kansas City Athletics,1964,166,59
+KC1,Kansas City Athletics,1964,166,57
 WS1,Washington Senators,1959,163,63
 WS2,Washington Senators,1969,148,86
 BSN,Boston Braves,1950,148,83
@@ -46,7 +46,7 @@ SE1,Seattle Pilots,1969,125,64
 SLA,St. Louis Browns,1940,118,67
 NYP,New York Giants,1890,66,74
 IN3,Indianapolis Hoosiers,1889,62,59
-SL4,St. Louis Browns,1891,58,90
+SL4,St. Louis Browns,1891,58,85
 PH4,Philadelphia Athletics,1891,55,73
 DTN,Detroit Wolverines,1887,55,79
 BSP,Boston Reds,1890,54,81
@@ -85,7 +85,7 @@ MLA,Milwaukee Brewers,1901,26,48
 CNU,Cincinnati Outlaw Reds,1884,26,69
 TL2,Toledo Maumees,1890,24,68
 NY4,New York Metropolitans,1884,22,75
-PRO,Providence Grays,1884,21,58
+PRO,Providence Grays,1884,21,84
 IN2,Indianapolis Hoosiers,1884,20,29
 CL2,Cleveland Blues,1882,20,42
 BFP,Buffalo Bisons,1890,20,36
@@ -133,7 +133,7 @@ SL3,St. Louis Brown Stockings,1876,2,45
 NY3,New York Mutuals,1876,2,21
 NH1,New Haven Elm Citys,1875,2,7
 ML2,Milwaukee Grays,1878,2,15
-HR1,Hartford Dark Blues,1875,2,16
+HR1,Hartford Dark Blues,1875,2,54
 FW1,Fort Wayne Kekiongas,1871,2,7
 ALT,Altoona Mountain City,1884,2,6
 MID,Middletown Mansfields,1872,1,5
