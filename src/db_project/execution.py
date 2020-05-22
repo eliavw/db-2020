@@ -1,7 +1,6 @@
 """
 This file contains all functions necessary for running
-a submission for the project, provided if all
-conventions were followed.
+a submission for the project.
 """
 import importlib.util as iu
 import io
@@ -32,7 +31,7 @@ def run_external_script(
     report=True,
     solution=False,
     params_fname="all_q_params.json",
-    suffix='',
+    suffix="",
 ):
     """
     Run the external script that is provided.
@@ -49,6 +48,8 @@ def run_external_script(
                     Whether or not to generate a report
     solution:       bool, default=False
                     Whether or not the script provided is the model solution.
+                    
+                    If this is set to True, then ALL VERSIONS of a given query are executed.
 
     Returns
     -------
@@ -58,7 +59,9 @@ def run_external_script(
     fs = create_fs(fname, params_fname=params_fname, suffix=suffix)
 
     f = io.StringIO()
-    with redirect_stdout(f): # DO *NOT* COMMENT THIS OUT! OTHERWISE THE EXECUTION REPORTS BECOME EMPTY.
+    with redirect_stdout(
+        f
+    ):  # DO *NOT* COMMENT THIS OUT! OTHERWISE THE EXECUTION REPORTS BECOME EMPTY.
         if q_idx is None:
             _, all_q_names, all_q_method, all_q_colnam, all_q_params = before_execution(
                 fname,
@@ -91,7 +94,12 @@ def run_external_script(
                 )
 
                 run_all_queries(
-                    fs, all_q_names, all_q_method, connection, all_q_colnam, all_q_params,
+                    fs,
+                    all_q_names,
+                    all_q_method,
+                    connection,
+                    all_q_colnam,
+                    all_q_params,
                 )
 
     execution_report = f.getvalue()
